@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> my name is Tyrone and I love building apps and I love learning new coding concepts and technologies.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> my name is Tyrone and I love building apps and I'm always learning of ways to write clean and efficient code. Most of all I enjoy learning, I believe as a developer you never stop learning, and this is my lifelong commitment.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyroneKong&show_icons=true&theme=radical)
 
