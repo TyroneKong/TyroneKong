@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyronekong&label=Profile%20views&color=0e75b6&style=flat" alt="tyronekong" /> </p>
 
-- 🔭 I’m currently working on [spotify](https://github.com/TyroneKong/spotify-App)
+- 🔭 I’m currently learning Typescript
 
 - 📫 How to reach me **tyronekong@gmail.com**
 
